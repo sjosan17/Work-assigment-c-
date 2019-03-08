@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sande\pg4400 c++ programmering\arbeiskrav\sdl-image mover\sdl-image mover</FILEPATH>
+      <FILENAME>application.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Application::m_window_surface' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Application::{ctor}</FUNCTION>
+    <DECORATED>??0Application@@QAE@XZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sande\pg4400 c++ programmering\arbeiskrav\sdl-image mover\sdl-image mover</FILEPATH>
+      <FILENAME>application.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Application::m_window_event' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Application::{ctor}</FUNCTION>
+    <DECORATED>??0Application@@QAE@XZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

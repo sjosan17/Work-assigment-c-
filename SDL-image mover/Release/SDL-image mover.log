@@ -1,0 +1,21 @@
+﻿  main.cpp
+  application.cpp
+  stick_figure.cpp
+c:\users\sande\pg4400 c++ programmering\arbeiskrav\sdl-image mover\sdl-image mover\stick_figure.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sande\pg4400 c++ programmering\arbeiskrav\sdl-image mover\sdl-image mover\stick_figure.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Compiling...
+application.obj : error LNK2001: unresolved external symbol _SDL_GetWindowSurface
+application.obj : error LNK2001: unresolved external symbol _SDL_DestroyWindow
+application.obj : error LNK2001: unresolved external symbol _SDL_GetError
+application.obj : error LNK2001: unresolved external symbol _SDL_LoadBMP_RW
+application.obj : error LNK2001: unresolved external symbol _SDL_PollEvent
+application.obj : error LNK2001: unresolved external symbol _SDL_MapRGB
+application.obj : error LNK2001: unresolved external symbol _SDL_FreeSurface
+application.obj : error LNK2001: unresolved external symbol _SDL_CreateWindow
+application.obj : error LNK2001: unresolved external symbol _SDL_FillRect
+application.obj : error LNK2001: unresolved external symbol _SDL_RWFromFile
+application.obj : error LNK2001: unresolved external symbol _SDL_UpdateWindowSurface
+stick_figure.obj : error LNK2001: unresolved external symbol _SDL_GetKeyboardState
+stick_figure.obj : error LNK2001: unresolved external symbol _SDL_UpperBlit
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+C:\Users\sande\PG4400 C++ programmering\Arbeiskrav\SDL-image mover\Release\SDL-image mover.exe : fatal error LNK1120: 14 unresolved externals
